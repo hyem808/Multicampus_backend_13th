@@ -1,0 +1,81 @@
+@charset "UTF-8";
+
+	body {
+		background: black;
+	}
+	
+	container p-5 my-5 bg-dark text-white {
+		height: 170px;
+		display: block;
+		text-align:center;
+		padding: 30px;
+	}
+	
+	img {
+		width: 60px;
+		height: 60px;
+	}
+	
+	btn btn-primary {
+		width: 60px;
+		height: 60px;
+	}
+	
+	h3 {
+		font-size: 35px;
+		vertical-align: middle;
+		font-family: 'IBM Plex Sans KR', sans-serif;
+	}
+	
+	.list-group {
+		height: 70px;
+		
+		margin-top: -10px;
+		vertical-align: middle;
+		margin-bottom: 250px;
+	}
+	
+	.page {
+		color: white;
+		font-size: 20px;
+		text-decoration-line: none;
+		display:block;
+		font-family: 'IBM Plex Sans KR', sans-serif;
+	}
+	
+	.page:hover {
+		color: white;
+		background: grey;
+	}
+	
+	.page2 {
+		color: black;
+		font-size: 20px;
+		text-decoration-line:none;
+		display:block;
+		font-family: 'IBM Plex Sans KR', sans-serif;
+	}
+	
+	.channel {
+		color: white;
+		font-size: 25px;
+		text-decoration:none;
+		display:block;
+		font-family: 'IBM Plex Sans KR', sans-serif;
+	}
+	
+	.channel:hover {
+		color: white;
+	}
+	
+	.list-group-item {
+		background-color: black;
+	}
+	
+	hr {
+		color:grey;
+		border-width:5px;
+		margin-left: 4em;
+		margin-right: 4em;
+		margin-bottom: 2em;
+	}
